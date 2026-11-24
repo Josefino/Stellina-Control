@@ -1,0 +1,11 @@
+stellina_key.json
+.env
+.env.*
+__pycache__/
+*.pyc
+.venv/
+venv/
+build/
+dist/
+*.app/
+.DS_Store
